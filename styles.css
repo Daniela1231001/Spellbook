@@ -1,0 +1,32 @@
+h1{
+    text-align:center;
+    color:pink;
+}
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:260px;
+}
+h2 {
+    text-align:center;
+    color:red;
+}
+body{
+    background-image: url("https://st.depositphotos.com/1704953/2910/i/950/depositphotos_29103817-stock-photo-mystery-book-wallpaper.jpg");
+    font-family: 'Great Vibes', cursive;
+    font-size:25px;
+}
+
+h4 {
+    color:lightblue;
+    text-align:center;
+}
+strong {
+    color:red;
+}
+
+
+
+
+
